@@ -1,4 +1,4 @@
-# Class 6: The DOM, Domain Modeling, and Introduction to Objects
+# Class 6: The DOM, Domain Modeling, & Introduction to Objects
 
 **Learning Objectives**
 
